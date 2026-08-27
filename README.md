@@ -1,7 +1,7 @@
 MY CODING JOURNEY
 
-   Welcome to my journey into technology!
-I’m a first-year B.Tech Information Technology student, currently exploring different areas of technology and building my skills step by step.
+Welcome to my journey into technology!
+    I’m a first-year B.Tech Information Technology student, currently exploring different areas of technology and building my skills step by step.
 
 ABOUT ME 💻
 
