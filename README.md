@@ -8,15 +8,21 @@ I’m a first-year B.Tech Information Technology student, currently exploring di
 ABOUT ME 💻
 
 •B.Tech Information Technology Student
+
 •Exploring Technology & Development
+
 •Interested in learning through practical projects
+
 •Building my technical skills throughout college
 
 GOALS 🎯
 
    •Explore different areas of Information Technology
+
    •Develop practical technical skills
+
    •Build meaningful projects
+
    •Continuously learn and improve
 
 PROJECTS📁
