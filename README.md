@@ -10,7 +10,6 @@ ABOUT ME 💻
 •B.Tech Information Technology Student
 •Exploring Technology & Development
 •Interested in learning through practical projects
-  
 •Building my technical skills throughout college
 
 GOALS 🎯
